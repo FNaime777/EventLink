@@ -1,0 +1,20 @@
+{
+  "name": "Eventos Acadêmicos",
+  "short_name": "Eventos",
+  "start_url": "./Eventlink.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0e1a",
+  "theme_color": "#0f172a",
+  "description": "Plataforma de eventos acadêmicos — busca, inscrição e gerenciamento.",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
